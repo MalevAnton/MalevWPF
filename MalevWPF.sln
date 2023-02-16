@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalevWPF", "MalevWPF\MalevWPF.csproj", "{39EC62D8-B021-4FD7-988B-F73D3EBD445A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProj", "ConsoleProj\ConsoleProj.csproj", "{68BEBB3D-3BF7-4C16-88E3-4728629DF667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EC62D8-B021-4FD7-988B-F73D3EBD445A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EC62D8-B021-4FD7-988B-F73D3EBD445A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EC62D8-B021-4FD7-988B-F73D3EBD445A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EC62D8-B021-4FD7-988B-F73D3EBD445A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BEBB3D-3BF7-4C16-88E3-4728629DF667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BEBB3D-3BF7-4C16-88E3-4728629DF667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BEBB3D-3BF7-4C16-88E3-4728629DF667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BEBB3D-3BF7-4C16-88E3-4728629DF667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BC2038-05E3-4677-B1A7-0861F5E8C870}
+	EndGlobalSection
+EndGlobal
